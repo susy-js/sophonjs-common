@@ -1,0 +1,24 @@
+{
+    "name": "spuriousDragon",
+    "comment": "HF with SIPs for simple replay attack protection, EXP cost increase, state trie clearing, contract code size limit",
+    "sip": {
+        "url": "https://sips.superstring.io/SIPS/sip-607",
+        "status": "Final"
+    },
+    "gasConfig": {},
+    "gasPrices": {
+        "expByte": {
+            "v": 50,
+            "d": "Times ceil(log256(exponent)) for the EXP instruction"
+        }
+    },
+    "vm": {
+        "maxCodeSize": {
+            "v": 24576,
+            "d": "Maximum length of contract code"
+        }
+    },
+    "pow": {},
+    "casper": {},
+    "sharding": {}
+}

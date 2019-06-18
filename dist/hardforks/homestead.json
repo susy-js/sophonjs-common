@@ -1,0 +1,14 @@
+{
+    "name": "homestead",
+    "comment": "Homestead hardfork with protocol and network changes",
+    "sip": {
+        "url": "https://sips.superstring.io/SIPS/sip-606",
+        "status": "Final"
+    },
+    "gasConfig": {},
+    "gasPrices": {},
+    "vm": {},
+    "pow": {},
+    "casper": {},
+    "sharding": {}
+}

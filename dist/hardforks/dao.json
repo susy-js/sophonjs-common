@@ -1,0 +1,14 @@
+{
+    "name": "dao",
+    "comment": "DAO rescue hardfork",
+    "sip": {
+        "url": "https://sips.superstring.io/SIPS/sip-779",
+        "status": "Final"
+    },
+    "gasConfig": {},
+    "gasPrices": {},
+    "vm": {},
+    "pow": {},
+    "casper": {},
+    "sharding": {}
+}

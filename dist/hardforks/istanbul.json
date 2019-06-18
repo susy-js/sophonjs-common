@@ -1,0 +1,14 @@
+{
+    "name": "istanbul",
+    "comment": "HF targeted for October 2019 following the Constantinople/Petersburg HF",
+    "sip": {
+        "url": "https://sips.superstring.io/SIPS/sip-1679",
+        "status": "Draft"
+    },
+    "gasConfig": {},
+    "gasPrices": {},
+    "vm": {},
+    "pow": {},
+    "casper": {},
+    "sharding": {}
+}
